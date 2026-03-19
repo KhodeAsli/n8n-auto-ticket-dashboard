@@ -1,9 +1,4 @@
 - ®️ Asli
-- 💻 HTML,CSS,LUA
-- 🩸 Elden Bileğe Hareket !
-- 🍫 IRanian
+- 💻 Mid-Level Dev
 
-- 📫 Socials : 
-- Telegram : https:/t.me/khodeasl
-- Discord : itsrealasli
 
